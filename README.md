@@ -1,2 +1,3 @@
 # KostylKit
-Easy setup your project
+
+A description of this package.
